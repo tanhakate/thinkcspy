@@ -383,7 +383,7 @@ quitting. The end result is shown below. (`whack_a_mole_v5.py`_)
 
           self.mole_labels = self.create_moles()
 
-          self.hit_counter, self.miss_counter, self.start_button, self.quit_button \
+          self.hit_counter, self.miss_counter, self.start_button, self.quit_button
               = self.create_status_widgets()
 
           self.set_callbacks()
